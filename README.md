@@ -3,7 +3,7 @@ gjghjghj
 <<<<<<< HEAD
 SECTION1-changed 
 JLADJSLJDLAJDLASJ
-SECTION
+SECTION-more changes by silvia
 
 =======
 changing file
