@@ -1,12 +1,2 @@
-# d3lab5
-gjghjghj
+#d3lab5
 
-SECTION1-changed 
-<<<<<<< HEAD
-JLADJSLJDLAJDLASJD-------cade as mudancas?????
-=======
-JLADJSLJDLAJDLASJD - HOJE EH 11 DE OUTUBRO
->>>>>>> 4d896279480e54c0001a202322b69fa47d15b698
-SECTION-more changes by silvia
-SECTION
-ANOTHER CHANGE BY SILVIA
