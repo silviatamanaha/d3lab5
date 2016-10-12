@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 #d3lab5
 
+=======
+# d3lab5
+COMECAR DO ZERO
+VAMOS APRENDER
+>>>>>>> 5f9513b62650614f00c7939d628efa10afbf60e0
